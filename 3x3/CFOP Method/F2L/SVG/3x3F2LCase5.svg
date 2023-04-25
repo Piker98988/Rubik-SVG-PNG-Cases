@@ -7,49 +7,12 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="3x3F2LCase5.svg"
-   inkscape:export-filename="..\..\Pictures\F2L\Case5.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#505050"
-     bordercolor="#ffffff"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"
-     showgrid="false"
-     showguides="true"
-     inkscape:zoom="0.90549336"
-     inkscape:cx="221.97844"
-     inkscape:cy="720.04945"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1703" />
   <defs
      id="defs2">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 148.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="210 : 148.5 : 1"
-       inkscape:persp3d-origin="105 : 99 : 1"
-       id="perspective173" />
     <marker
        id="Arrow2Sstart"
-       inkscape:isstock="true"
-       inkscape:stockid="Arrow2Sstart"
        orient="auto"
        refX="0"
        refY="0"
@@ -62,8 +25,6 @@
     </marker>
     <marker
        id="Arrow2Send"
-       inkscape:isstock="true"
-       inkscape:stockid="Arrow2Send"
        orient="auto"
        refX="0"
        refY="0"
@@ -76,13 +37,10 @@
     </marker>
   </defs>
   <g
-     inkscape:label="Cube"
-     inkscape:groupmode="layer"
      id="layer1">
     <g
        id="g1703"
        transform="matrix(0.48157946,-0.40586376,0,1.0616847,134.65581,-16.737552)"
-       inkscape:label="Red layer"
        style="display:inline">
       <rect
          style="fill:#000000;stroke-width:0.293288"
@@ -90,85 +48,74 @@
          width="125"
          height="125"
          x="13.090879"
-         y="158.80849"
-         inkscape:label="Back" />
+         y="158.80849" />
       <rect
          style="fill:#ff0000;fill-opacity:1;stroke-width:0.285722"
          id="rect423"
          width="41"
          height="41"
          x="13.098906"
-         y="158.81615"
-         inkscape:label="UL" />
+         y="158.81615" />
       <rect
          style="fill:#666666;fill-opacity:1;stroke-width:0.285722"
          id="rect423-7"
          width="41"
          height="41"
          x="55.125"
-         y="158.81615"
-         inkscape:label="U" />
+         y="158.81615" />
       <rect
          style="fill:#666666;stroke-width:0.285722"
          id="rect423-7-5"
          width="41"
          height="41"
          x="97.070915"
-         y="158.81615"
-         inkscape:label="UR" />
+         y="158.81615" />
       <rect
          style="fill:#ff0000;fill-opacity:1;stroke-width:0.285722"
          id="rect423-7-5-2"
          width="41"
          height="41"
          x="97.099998"
-         y="200.75"
-         inkscape:label="R" />
+         y="200.75" />
       <rect
          style="fill:#666666;fill-opacity:1;stroke-width:0.285722"
          id="rect423-3"
          width="41"
          height="41"
          x="13.113002"
-         y="200.73752"
-         inkscape:label="L" />
+         y="200.73752" />
       <rect
          style="fill:#ff0000;stroke-width:0.285722"
          id="rect423-7-56"
          width="41"
          height="41"
          x="55.140003"
-         y="200.75"
-         inkscape:label="Center" />
+         y="200.75" />
       <rect
          style="fill:#666666;fill-opacity:1;stroke-width:0.285722"
          id="rect423-9"
          width="41"
          height="41"
          x="13.073001"
-         y="242.77898"
-         inkscape:label="DL" />
+         y="242.77898" />
       <rect
          style="fill:#ff0000;stroke-width:0.285722"
          id="rect423-7-1"
          width="41"
          height="41"
          x="55.150002"
-         y="242.77898"
-         inkscape:label="D" />
+         y="242.77898" />
       <rect
          style="fill:#ff0000;fill-opacity:1;stroke-width:0.285722"
          id="rect423-7-5-27"
          width="41"
          height="41"
          x="97.096039"
-         y="242.7794"
-         inkscape:label="DR" />
+         y="242.7794" />
     </g>
     <g
        id="g1703-6"
        transform="matrix(1.0655197,0,-0.47466246,0.40083597,128.75113,32.018519)"
-       inkscape:label="Yellow layer"
        style="display:inline">
       <rect
          style="fill:#000000;stroke-width:0.293288"
@@ -176,85 +123,74 @@
          width="125"
          height="125"
          x="13.073382"
-         y="158.80098"
-         inkscape:label="Back" />
+         y="158.80098" />
       <rect
          style="fill:#666666;stroke-width:0.285722"
          id="rect423-5"
          width="41"
          height="41"
          x="13.098906"
-         y="158.81615"
-         inkscape:label="UL" />
+         y="158.81615" />
       <rect
          style="fill:#666666;stroke-width:0.285722;fill-opacity:1"
          id="rect423-7-54"
          width="41"
          height="41"
          x="55.125"
-         y="158.81615"
-         inkscape:label="U" />
+         y="158.81615" />
       <rect
          style="fill:#666666;stroke-width:0.285722"
          id="rect423-7-5-7"
          width="41"
          height="41"
          x="97.070915"
-         y="158.81615"
-         inkscape:label="UR" />
+         y="158.81615" />
       <rect
          style="fill:#666666;fill-opacity:1;stroke-width:0.285722"
          id="rect423-7-5-2-6"
          width="41"
          height="41"
          x="97.099998"
-         y="200.75"
-         inkscape:label="R" />
+         y="200.75" />
       <rect
          style="fill:#0000ff;stroke-width:0.285722;fill-opacity:1"
          id="rect423-3-5"
          width="41"
          height="41"
          x="13.113002"
-         y="200.73752"
-         inkscape:label="L" />
+         y="200.73752" />
       <rect
          style="fill:#eeff1a;fill-opacity:1;stroke-width:0.285722"
          id="rect423-7-56-6"
          width="41"
          height="41"
          x="55.140003"
-         y="200.75"
-         inkscape:label="Center" />
+         y="200.75" />
       <rect
          style="fill:#666666;stroke-width:0.285722"
          id="rect423-9-9"
          width="41"
          height="41"
          x="13.077999"
-         y="242.77898"
-         inkscape:label="DL" />
+         y="242.77898" />
       <rect
          style="fill:#666666;stroke-width:0.285722;fill-opacity:1"
          id="rect423-7-1-3"
          width="41"
          height="41"
          x="55.110023"
-         y="242.77898"
-         inkscape:label="D" />
+         y="242.77898" />
       <rect
          style="fill:#0000ff;fill-opacity:1;stroke-width:0.285722"
          id="rect423-7-5-27-7"
          width="41"
          height="41"
          x="97.053497"
-         y="242.7794"
-         inkscape:label="DR" />
+         y="242.7794" />
     </g>
     <g
        id="g4273"
        transform="matrix(1.0583164,0,0,1.0583333,-5.9563247,-21.304381)"
-       inkscape:label="Blue layer"
        style="display:inline">
       <rect
          style="fill:#000000;stroke-width:0.293288"
@@ -262,84 +198,73 @@
          width="125"
          height="125"
          x="13.090879"
-         y="158.80849"
-         inkscape:label="Back" />
+         y="158.80849" />
       <rect
          style="fill:#666666;stroke-width:0.285722"
          id="rect4255"
          width="41"
          height="41"
          x="13.098906"
-         y="158.81615"
-         inkscape:label="UL" />
+         y="158.81615" />
       <rect
          style="fill:#666666;stroke-width:0.285722;fill-opacity:1"
          id="rect4257"
          width="41"
          height="41"
          x="55.125"
-         y="158.81615"
-         inkscape:label="U" />
+         y="158.81615" />
       <rect
          style="fill:#ffffff;stroke-width:0.285722;fill-opacity:1"
          id="rect4259"
          width="41"
          height="41"
          x="97.070915"
-         y="158.81615"
-         inkscape:label="UR" />
+         y="158.81615" />
       <rect
          style="fill:#666666;fill-opacity:1;stroke-width:0.285722"
          id="rect4261"
          width="41"
          height="41"
          x="97.099998"
-         y="200.75"
-         inkscape:label="R" />
+         y="200.75" />
       <rect
          style="fill:#0000ff;fill-opacity:1;stroke-width:0.285722"
          id="rect4263"
          width="41"
          height="41"
          x="13.113002"
-         y="200.73752"
-         inkscape:label="L" />
+         y="200.73752" />
       <rect
          style="fill:#0000ff;stroke-width:0.285722"
          id="rect4265"
          width="41"
          height="41"
          x="55.140003"
-         y="200.75"
-         inkscape:label="Center" />
+         y="200.75" />
       <rect
          style="fill:#0000ff;fill-opacity:1;stroke-width:0.285722"
          id="rect4267"
          width="41"
          height="41"
          x="13.073001"
-         y="242.77898"
-         inkscape:label="DL" />
+         y="242.77898" />
       <rect
          style="fill:#0000ff;stroke-width:0.285722"
          id="rect4269"
          width="41"
          height="41"
          x="55.150002"
-         y="242.77898"
-         inkscape:label="D" />
+         y="242.77898" />
       <rect
          style="fill:#666666;fill-opacity:1;stroke-width:0.285722"
          id="rect4271"
          width="41"
          height="41"
          x="97.096039"
-         y="242.7794"
-         inkscape:label="DR" />
+         y="242.7794" />
     </g>
     <g
        id="g1101"
-       inkscape:label="Outline"
        style="display:inline">
       <rect
          style="fill:#000000;fill-opacity:1;stroke-width:2.75165"
@@ -347,16 +272,14 @@
          width="132.29167"
          height="0.9968679"
          x="7.8988786"
-         y="145.77191"
-         inkscape:label="Black Y-B" />
+         y="145.77191" />
       <rect
          style="fill:#000000;fill-opacity:1;stroke-width:2.76219"
          id="rect6560-44"
          width="133.30696"
          height="0.9968679"
          x="7.83636"
-         y="278.25632"
-         inkscape:label="Black B-~ Down" />
+         y="278.25632" />
       <rect
          style="fill:#000000;fill-opacity:1;stroke-width:2.1398"
          id="rect6560-47"
@@ -364,7 +287,6 @@
          height="1.0097132"
          x="14.696158"
          y="201.94603"
-         inkscape:label="Black Y-R"
          transform="matrix(0.76575618,-0.64313099,0.63910173,0.76912221,0,0)" />
       <rect
          style="fill:#000000;fill-opacity:1;stroke-width:2.13986"
@@ -373,7 +295,6 @@
          height="1.0100234"
          x="-69.467903"
          y="303.47839"
-         inkscape:label="Black R-~ Down"
          transform="matrix(0.76476634,-0.64430773,0.6379212,0.77010164,0,0)" />
       <rect
          style="fill:#000000;fill-opacity:1;stroke-width:2.13238"
@@ -382,7 +303,6 @@
          height="1.0064703"
          x="-86.951561"
          y="116.53377"
-         inkscape:label="Black Y-~ Left"
          transform="matrix(0.76485064,-0.64420765,0.63802167,0.77001841,0,0)" />
       <rect
          style="fill:#000000;fill-opacity:1;stroke-width:2.76163"
@@ -390,8 +310,7 @@
          width="133.2532"
          height="0.9968679"
          x="67.85849"
-         y="95.077362"
-         inkscape:label="Black Y-~ Up" />
+         y="95.077362" />
       <rect
          style="fill:#000000;fill-opacity:1;stroke-width:2.76165"
          id="rect6560-4"
@@ -399,8 +318,7 @@
          height="0.9968679"
          x="145.76247"
          y="-141.17046"
-         transform="rotate(89.998576)"
-         inkscape:label="Black R-B" />
+         transform="rotate(89.998576)" />
       <rect
          style="fill:#000000;fill-opacity:1;stroke-width:2.76165"
          id="rect6560-4-8"
@@ -408,8 +326,7 @@
          height="0.9968679"
          x="95.083984"
          y="-201.49068"
-         transform="rotate(89.998576)"
-         inkscape:label="Black R-~ Right" />
+         transform="rotate(89.998576)" />
       <rect
          style="fill:#000000;fill-opacity:1;stroke-width:2.76165"
          id="rect6560-4-3"
@@ -417,8 +334,7 @@
          height="0.9968679"
          x="145.74445"
          y="-8.76894"
-         transform="rotate(89.998576)"
-         inkscape:label="Black B-~ Left" />
+         transform="rotate(89.998576)" />
     </g>
   </g>
 </svg>
