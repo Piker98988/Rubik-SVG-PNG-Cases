@@ -1,1 +1,3 @@
 # Rubik-SVG-PNG-Cases
+In this repository I will be posting all of the possible cases for the rubik's cube for different methods such as M2, CFOP, ROUX, Winter variation...
+All of these SVGs and PNGs can be reused with credits.
